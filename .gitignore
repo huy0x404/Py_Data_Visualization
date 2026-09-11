@@ -1,0 +1,4 @@
+# Local/generated SQLite databases may contain credentials or sensitive data
+data/raw/sqlite/*.sqlite
+data/raw/sqlite/*.sqlite3
+data/raw/sqlite/*.db
