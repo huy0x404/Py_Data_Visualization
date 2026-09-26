@@ -2,3 +2,16 @@
 data/raw/sqlite/*.sqlite
 data/raw/sqlite/*.sqlite3
 data/raw/sqlite/*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
